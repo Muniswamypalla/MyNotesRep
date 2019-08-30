@@ -1,0 +1,7 @@
+Closes at: Sep 30, 2019 11:00 AM IST
+Test Duration: 1 hrs 30 mins
+Invite Expiry Date: Sep 05, 2019 11:30 PM IST
+Test Link: https://www.hackerearth.com/challenges/test/java_programming_july/?login=7f6dd9bc6f50842391959bcbf511e167
+Important
+
+You can take this test anytime between the start date/time and end date/time.
